@@ -1,0 +1,17 @@
+#include<studio.h>
+#include<math.h>
+ int main()
+{
+     float r=0.0;
+     float l=0.0;
+     float p=0.0;
+     float p2=0.0;
+     printf("INGRESA TU RADIO");
+     scanf("%f",&r);
+     printf("Ingresa todos los lados que tiene tu poligono")    
+     scanf("%f",&l);
+     p=2*r*l*sin(3.1416);
+     p2=P/1;
+     printf("Tu perimetro es %4f",p2);
+     return=0
+}
